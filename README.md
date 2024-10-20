@@ -1,4 +1,4 @@
-- 👋 Hi, I’m GuruGouthamKanchi
+- 👋 Hi, I’m Guru Goutham Kanchi
 - 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning front end
 - 💞️ I’m looking to collaborate on front end projets
