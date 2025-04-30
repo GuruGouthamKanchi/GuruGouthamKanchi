@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73C8B&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+building+for+the+web!;Learning+React+one+component+at+a+time" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73C8B&center=true&vCenter=true&width=470&lines=Welcome+to+my+GitHub+profile!;I+love+building+for+the+web!;Learning+React+one+component+at+a+time" />
 </div>
 
 ---
