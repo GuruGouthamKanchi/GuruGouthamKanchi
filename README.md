@@ -10,7 +10,7 @@
 - 🤝 Always up for collaborating on exciting **front-end projects**
 - 📫 Reach me at: kanchigurugoutham@gmail.com 
 - 💬 Ask me about web dev basics, beginner projects, or tech learning paths!
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: Goutham
 - ⚡ Fun fact: I love debugging—it’s like solving tiny puzzles every day 🧩
 
 ---
