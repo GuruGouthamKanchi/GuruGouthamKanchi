@@ -34,6 +34,13 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GuruGouthamKanchi&theme=dracula&column=4&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuruGouthamKanchi&theme=radical" />
+</p>
 
 ### 🔗 Let's Connect
 
