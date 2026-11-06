@@ -48,21 +48,9 @@
 - 📘 Learn TypeScript and dive into **Next.js**
 - 🌍 Create a blog or guide series for beginners
 
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuruGouthamKanchi&show_icons=true&theme=radical&hide_border=true" />
+  <img src="koi/koi.gif" width="256" alt="My Koi" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuruGouthamKanchi&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GuruGouthamKanchi&theme=dracula&row=1&no-bg=true&margin-w=15" />
-</p>
-
----
 
 ### 🌐 Let's Connect
 
