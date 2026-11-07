@@ -36,9 +36,12 @@
   <img src="koi/koi.gif" width="256" alt="My Koi" />
 </p> -->
 
-<a href="https://github.com/topics/game-of-thrones">
-  <img src="dragons/companion.gif" alt="Drogon Wyvern Companion" width="420"/>
+<div align="center">
+<a href="https://github.com/GuruGouthamKanchi/git-wyvern">
+  <img src="https://raw.githubusercontent.com/GuruGouthamKanchi/git-wyvern/main/dragons/drogon_patrol.gif" alt="Drogon Wyvern Companion" width="380"/>
 </a>
+<p><em>🐉 Companion: <strong>Drogon</strong> (The Black Dread Reborn) &bull; Powered by <a href="https://github.com/GuruGouthamKanchi/git-wyvern">Git-Wyvern</a></em></p>
+</div>
 
 ### 🌐 Let's Connect
 
