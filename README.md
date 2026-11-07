@@ -2,13 +2,12 @@
 <h3 align="center">🌐 Front-End Developer | 🚀 Lifelong Learner | 🎯 Focused on Growth</h3>
 
 ---
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73C8B&center=true&vCenter=true&width=470&lines=Welcome+to+my+GitHub+profile!;I+love+building+for+the+web!;Learning+React+one+component+at+a+time" />
-</div>
-
+<p align="center">
+  <a href="https://github.com/GuruGouthamKanchi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/guru-goutham-kanchi-421778320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://gurugouthamkanchi.github.io/portfolio/main.html"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
 ---
-
 ### 👨‍💻 About Me
 
 - 🔭 Currently learning **Front-End Development** in-depth
@@ -42,14 +41,6 @@
 </a>
 <p><em>🐉 Companion: <strong>Drogon</strong> (The Black Dread Reborn)</em></p>
 </div>
-
-### 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/GuruGouthamKanchi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/guru-goutham-kanchi-421778320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://gurugouthamkanchi.github.io/portfolio/main.html"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-</p>
 
 ---
 
