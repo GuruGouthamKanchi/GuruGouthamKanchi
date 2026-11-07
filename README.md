@@ -32,25 +32,13 @@
 
 ---
 
-### 🌱 Currently Learning
-
-- 📱 Responsive layouts with Flexbox & CSS Grid
-- ⚛️ React Hooks & functional components
-- 🎨 UI/UX best practices
-- 🔧 Dev Tools & browser debugging
-
----
-
-### 🎯 2025 Goals
-
-- 🚀 Build & deploy 10+ full front-end projects
-- 🤝 Contribute to open-source (even a small PR counts!)
-- 📘 Learn TypeScript and dive into **Next.js**
-- 🌍 Create a blog or guide series for beginners
-
-<p align="center">
+<!-- <p align="center">
   <img src="koi/koi.gif" width="256" alt="My Koi" />
-</p>
+</p> -->
+
+<a href="https://github.com/topics/game-of-thrones">
+  <img src="dragons/companion.gif" alt="Drogon Wyvern Companion" width="420"/>
+</a>
 
 ### 🌐 Let's Connect
 
