@@ -38,9 +38,9 @@
 
 <div align="center">
 <a href="https://github.com/GuruGouthamKanchi/git-wyvern">
-  <img src="https://raw.githubusercontent.com/GuruGouthamKanchi/git-wyvern/main/dragons/drogon_patrol.gif" alt="Drogon Wyvern Companion" width="380"/>
+  <img src="https://raw.githubusercontent.com/GuruGouthamKanchi/git-wyvern/main/dragons/tessarion_stage3.gif" alt="Drogon Wyvern Companion" width="520"/>
 </a>
-<p><em>🐉 Companion: <strong>Drogon</strong> (The Black Dread Reborn) &bull; Powered by <a href="https://github.com/GuruGouthamKanchi/git-wyvern">Git-Wyvern</a></em></p>
+<p><em>🐉 Companion: <strong>Drogon</strong> (The Black Dread Reborn)</em></p>
 </div>
 
 ### 🌐 Let's Connect
