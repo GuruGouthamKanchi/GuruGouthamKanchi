@@ -9,7 +9,7 @@ on:
         description: 'Choose your canon wyvern companion'
         required: true
         default: 'wight_viserion'
-        type: choice
+        type: wight_viserion
         options:
           - drogon
           - rhaegal
